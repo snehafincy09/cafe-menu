@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Lato:wght@300;400&display=swap');
+body {
+    background-image: url(https://i.pinimg.com/736x/a7/f1/9d/a7f19dd8fe1cc064c22dd23b19dda1ce.jpg);
+    font-family: 'Playfair Display', serif;
+    padding: 20px;
+}
+
+h1,h2 {
+    text-align: center;
+    font-style: italic;
+}
+p {
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Lato',sans-serif;
+}
+h1 {
+    font-size:  48px;
+    margin-top: 0;
+    margin-bottom: 15px;
+    color: #3B2F2F;
+}
+
+h2 {
+    font-size: 30px;
+    color: #22150c;
+    text-align: center;
+    clear: both;
+}
+a {
+    color: #582809;
+    text-decoration: none;
+}
+.menu {
+    background-color: ivory;
+    width: 70%;
+    max-width: 600px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.item p {
+    display: inline-block;
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+.flavour,.sweet,.savoury {
+    text-align: left;
+    width: 50%;
+
+}
+
+.price {
+    text-align: right;
+    width: 25%;
+}
+
+img {
+    display: block;
+    width: 130px;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0;
+    float: right;
+}
+
+hr {
+    height: 2px;
+    background-color: rgb(225, 166, 120);
+    border: none;
+    clear: both;
+}
+
+footer p{
+    font-size: 16px;
+    margin: 10px 0;
+    text-align: center;
+    clear: both;
+}
+
+address {
+    margin: 10px 0;
+    text-align: center;
+}
+
+.cafe-contact a {
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+}
+a:hover {
+    color: #cdb66c;
+}
+a:visited {
+  color: black;
+}
