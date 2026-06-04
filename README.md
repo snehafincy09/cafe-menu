@@ -14,3 +14,6 @@ This is one of my early projects as I work through learning frontend development
 ## Built with
 - HTML5
 - CSS3
+
+## Live Page
+Click here to view- https://snehafincy09.github.io/cafe-menu/
